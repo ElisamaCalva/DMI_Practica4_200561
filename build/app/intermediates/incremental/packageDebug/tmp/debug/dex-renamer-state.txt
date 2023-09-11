@@ -1,0 +1,4 @@
+#Fri Sep 08 14:16:26 CST 2023
+base.0=C\:\\Users\\PC-10\\practica4_200561\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
