@@ -12,7 +12,7 @@
 
 ## Elisama Arturo Calva Moreno
 
-## Estilizacion y uso de fuentes 08/09/2023
+## Creacion de la interfaz para la aplicacion en flutter 08/09/2023
 
 ## 10° "A"
 
